@@ -10,14 +10,14 @@
     <meta name="robots" content="index, follow">
     
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://yourwebsite.com/">
-    <meta property="og:title" content="Premium Live TV Streaming | Watch HD Channels Online">
+    <meta property="og:url" content="http://c1live.net/">
+    <meta property="og:title" content="Shemanto | Watch Live TV">
     <meta property="og:description" content="Experience high-quality Premium Live TV Streaming. Watch your favorite sports, news, and entertainment channels seamlessly in HD.">
     <meta property="og:image" content="https://placehold.co/1200x630/e50914/ffffff?text=Premium+Live+TV">
     
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://yourwebsite.com/">
-    <meta property="twitter:title" content="Premium Live TV Streaming | Watch HD Channels Online">
+    <meta property="og:url" content="http://c1live.net/">
+    <meta property="og:title" content="Shemanto | Watch Live TV">
     <meta property="twitter:description" content="Experience high-quality Premium Live TV Streaming. Watch your favorite sports, news, and entertainment channels seamlessly in HD.">
     <meta property="twitter:image" content="https://placehold.co/1200x630/e50914/ffffff?text=Premium+Live+TV">
     <link rel="shortcut icon" href="https://placehold.co/16x16/000000/ffffff?text=TV"/>
