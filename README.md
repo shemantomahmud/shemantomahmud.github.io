@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -364,9 +365,9 @@
 
                     <ul id="vidlink" class="thumbnail-slider">
                         <li class="Sports">
-                            <div class="channel" onclick="switchChannel('http://172.16.234.30:9090/hls/channel_1.m3u8','Channel 1', this)" title="Channel 1">
-                                <img class="thumb" src="assets/images/1.jpg" alt="Channel 1" onerror="this.src='https://placehold.co/100x100/111/fff?text=CH1'">
-                                <div class="channel-label">Channel 1</div>
+                            <div class="channel" onclick="switchChannel('http://c1live.net:8080/JAMUNA-TV-HD/tracks-v1a1/mono.m3u8','Channel 1', this)" title="JAMUNA-TV-HD">
+                                <img class="thumb" src="http://c1live.net/img/channels/jamunatv-logo.png" alt="Channel 1" onerror="this.src='https://placehold.co/100x100/111/fff?text=CH1'">
+                                <div class="channel-label">JAMUNA-TV-HD</div>
                             </div>
                         </li>
                         <li class="Sports">
@@ -432,9 +433,9 @@
 
     <div class="container p-3 mb-3">
         <div class="copyright-footer">
-            &copy; 2025 Bdix Live TV. All Rights Reserved.<br>
+            &copy; 2026 Shemanto Live TV. All Rights Reserved.<br>
             <span class="mt-1 d-block">
-                Developed by <a href="https://github.com/sohag1192" target="_blank" style="font-weight: 600;">Sohag1192</a>
+                Developed by <a href="https://github.com/shemantomahmud" target="_blank" style="font-weight: 600;">Shemanto Mahmud</a>
             </span>
         </div>
     </div>
